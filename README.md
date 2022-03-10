@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm Seve Martinez</h1>
 <h3 align="center">I love making sense of data and automating everything.</h3>
 
-- 🔭 I’m currently working on [My Thesis Project](https://github.com/The-Loud/Coinraker)
+- 🔭 I’m currently working in the crypto space
 
 - 🌱 I’m currently learning **Graph Representation Networks**
 
